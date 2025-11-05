@@ -1,0 +1,5 @@
+{
+  "name": "STEP Bible AI Analyzer",
+  "description": "A tool to generate STEP Bible study links and get AI-powered textual analysis on biblical passages. Select a bible reference, choose a study feature, and generate a link or request an in-depth analysis from Gemini.",
+  "requestFramePermissions": []
+}
